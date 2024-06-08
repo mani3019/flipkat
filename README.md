@@ -1,2 +1,2 @@
-# flipkat
+# flipkart
 flipClone
